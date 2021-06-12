@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Singhal
-- 👀 I’m interested in open source projects based on Python
+- 👀 I’m interested in open source projects
 - 📫 You can reach me through my email Id - yashsinghal818@gmail.com
 
 <!---

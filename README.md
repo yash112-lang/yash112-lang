@@ -3,8 +3,9 @@
 - 📫 You can reach me through my email Id - ramusinghal112@gmail.com
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash112-lang&show_icons=true&locale=en&layout=compact"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash112-lang&"></p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Yash112-lang&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yash112-lang&)
 
 ![](https://github-readme-stats.vercel.app/api?username=Yash112-lang&show_icons=true&count_private=true&include_all_commits=true&title_color=83d1a2&icon_color=9ca1b8&text_color=9ca1b8&bg_color=0f0f13)
 

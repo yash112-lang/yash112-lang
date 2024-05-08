@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Singhal
 - 👀 I’m interested in open source projects
-- 📫 You can reach me through my email Id - ramusinghal112@gmail.com
+- 📫 You can reach me through my email Id - singhalyash1905@gmail.com
 
 <br>
 
